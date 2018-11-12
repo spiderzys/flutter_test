@@ -1,0 +1,6 @@
+framework module Pods_flutter_integration_test {
+  umbrella header "Pods-flutter_integration_test-umbrella.h"
+
+  export *
+  module * { export * }
+}
